@@ -2,4 +2,6 @@
 
 Dashboard sidebar and user section created.
 
-User-section can be improved.
+Content section also created and completed.
+
+A simple Admin Dashboard has been created with mostly grid.
